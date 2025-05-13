@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kanhai94
+# 👋 Hi, I’m @kanhai
 
 👀 I’m interested in building scalable web applications, conversational AI, and automation tools that solve real-world problems.  
 🌱 I’m currently learning advanced AI integration, cloud architecture (AWS/GCP), and exploring GenAI for business solutions.  
